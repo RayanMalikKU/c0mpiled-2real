@@ -1,0 +1,148 @@
+{
+    "Dubai": {
+        "DIFC": {
+            "avg_rent_1bhk": 150000,
+            "avg_rent_2bhk": 230000,
+            "metro": true,
+            "vibe": [
+                "premium",
+                "central",
+                "business"
+            ],
+            "good_for": [
+                "high budget",
+                "walkable to offices"
+            ],
+            "notes": [
+                "Very central, high rent",
+                "Great for finance professionals"
+            ]
+        },
+        "Business Bay": {
+            "avg_rent_1bhk": 110000,
+            "avg_rent_2bhk": 170000,
+            "metro": true,
+            "vibe": [
+                "central",
+                "modern",
+                "busy"
+            ],
+            "good_for": [
+                "close to Downtown",
+                "metro commute"
+            ],
+            "notes": [
+                "Traffic can be heavy",
+                "Many towers; quality varies"
+            ]
+        },
+        "JLT": {
+            "avg_rent_1bhk": 90000,
+            "avg_rent_2bhk": 140000,
+            "metro": true,
+            "vibe": [
+                "walkable",
+                "community",
+                "young professionals"
+            ],
+            "good_for": [
+                "metro users",
+                "balanced budget"
+            ],
+            "notes": [
+                "Great lakeside walk areas",
+                "Popular for newcomers"
+            ]
+        },
+        "Dubai Marina": {
+            "avg_rent_1bhk": 120000,
+            "avg_rent_2bhk": 190000,
+            "metro": true,
+            "vibe": [
+                "lifestyle",
+                "touristy",
+                "nightlife"
+            ],
+            "good_for": [
+                "social life",
+                "views"
+            ],
+            "notes": [
+                "Can be crowded",
+                "Higher scam attempts on short-term deals"
+            ]
+        },
+        "JVC": {
+            "avg_rent_1bhk": 80000,
+            "avg_rent_2bhk": 120000,
+            "metro": false,
+            "vibe": [
+                "quiet",
+                "value",
+                "family-friendly"
+            ],
+            "good_for": [
+                "car owners",
+                "budget value"
+            ],
+            "notes": [
+                "Commute depends on traffic",
+                "Many new buildings; check quality"
+            ]
+        },
+        "Al Nahda (Dubai)": {
+            "avg_rent_1bhk": 55000,
+            "avg_rent_2bhk": 80000,
+            "metro": "nearby",
+            "vibe": [
+                "budget",
+                "dense",
+                "family"
+            ],
+            "good_for": [
+                "tight budgets",
+                "Sharjah commuters"
+            ],
+            "notes": [
+                "Older buildings exist",
+                "Great value but higher density"
+            ]
+        },
+        "Mirdif": {
+            "avg_rent_1bhk": 70000,
+            "avg_rent_2bhk": 110000,
+            "metro": false,
+            "vibe": [
+                "suburban",
+                "family",
+                "quiet"
+            ],
+            "good_for": [
+                "families",
+                "space"
+            ],
+            "notes": [
+                "More car-dependent",
+                "Good for calmer lifestyle"
+            ]
+        },
+        "Al Barsha": {
+            "avg_rent_1bhk": 85000,
+            "avg_rent_2bhk": 130000,
+            "metro": "nearby",
+            "vibe": [
+                "central-ish",
+                "practical",
+                "family"
+            ],
+            "good_for": [
+                "balanced commute",
+                "practical living"
+            ],
+            "notes": [
+                "Good access to Mall of the Emirates area",
+                "Mix of old/new"
+            ]
+        }
+    }
+}
